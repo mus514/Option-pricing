@@ -1,5 +1,5 @@
 ###
-### Equipe 3 : Cayenna Sarah Khoulalene, Aziel Honore Agossou, Mustapha Bouhsen
+### Mustapha Bouhsen
 ###
 
 ###
